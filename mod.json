@@ -1,0 +1,16 @@
+{
+	"geode": "2.0.0-beta.24",
+	"gd": {
+		"ios": "2.205"
+	},
+	"version": "v1.0.0",
+	"id": "uproxide.planktin",
+	"name": "Plankton Mod",
+	"developer": "Uproxide",
+	"description": "iOS test mod, uploaded for testing on ios only :3",
+	"resources": {
+		"sprites": [
+			"res/*.png"
+		]
+	}
+}
