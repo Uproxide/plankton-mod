@@ -15,8 +15,8 @@ class $modify(MenuLayer) {
 		this->addChild(plank);
 		this->addChild(text);
 
-		plank->setPosition(100f, 80f);
-		text->setPosition(100f, 75f);
+		plank->setPosition(100, 80);
+		text->setPosition(100, 75);
 
 		return true;
 	}
